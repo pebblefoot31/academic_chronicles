@@ -2,6 +2,7 @@
 This repo contains the work I did during my Dual Enrollment CS course with Pellissippi State Community College and Undergraduate CS courses at UTK thus far. A description of my work is as follows:
 
 UTK/COSC_202 : Data Structures and Algorithms I
+
 lab1 : This lab focuses on reading in weather data from a CSV file and implementing a 2D vector-array to output reformatted weather data summaries for several Tennessee cities. Full details of the assignment can be found in lab1.html.
 
 lab2 : Similar to lab1, this lab also focused on dealing with weather data– but for several more cities across the US. In this lab, we still had to read in information from a CSV file; however, the  data management for each city was through a linked-list based implementation rather than a vector-array. Full details of the assignment can be found in lab2.html.
