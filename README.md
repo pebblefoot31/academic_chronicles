@@ -1,7 +1,8 @@
 # academic_chronicles
 This repo contains the work I did during my Dual Enrollment CS course with Pellissippi State Community College and Undergraduate CS courses at UTK thus far. A description of my work is as follows:
 
-**UTK/COSC_202 : Data Structures and Algorithms I
+**UTK/COSC_202 : Data Structures and Algorithms I**
+A course that exposed me to the versatile capablities of the c++ programming language through a depthful investigation of various abstract data types. This includes vectors, queues, sets, trees, and lists, to name a few.
 
 lab1 : This lab focuses on reading in weather data from a CSV file and implementing a 2D vector-array to output reformatted weather data summaries for several Tennessee cities. Full details of the assignment can be found by downloading lab1.html.
 
@@ -22,12 +23,11 @@ lab8 : In this lab, I developed a program that recursively calculates the Goldba
 UTK/ENGL_258 : Honors Introduction to Fiction
 Contains the work done during the course.
 
-**UTK/COSC_230 : Computer Organization
-
+**UTK/COSC_230 : Computer Organization**
 A course focused on attributes of the ARMv8 instruction set architecture. Contains a few of the homework assignments I completed with a partner. 
 
-**UTK/ENGL_258 : Honors Introduction to Fiction
 
+**UTK/ENGL_258 : Honors Introduction to Fiction**
 A course that taught me how to read between the lines of classic fiction. This repository contains a record of the writing work I have done in relation to the fiction we covered in class, including a few position papers and reading journals. In addition to notable short stories, listed below are the novels I read in this class and the type of analysis associated with each one: 
 
 _Hills Like White Elephants_ by Ernest Hemingway (position paper)
