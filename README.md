@@ -19,9 +19,7 @@ lab6 : In this lab, I developed a program that recursively calculated the correc
 lab7 : In this lab, I developed code that would find a templated binary search tree’s upper and lower bounds, update pointers when a new value is inserted, and even output the details of the tree. Full details of the assignment can be found by downloading lab7.html
 
 lab8 : In this lab, I developed a program that recursively calculates the Goldbach partition of any  given number.  Full details of the assignment can be found by downloading lab8.html
- 
-UTK/ENGL_258 : Honors Introduction to Fiction
-Contains the work done during the course.
+
 
 **UTK/COSC_230 : Computer Organization**
 A course focused on attributes of the ARMv8 instruction set architecture. Contains a few of the homework assignments I completed with a partner. 
