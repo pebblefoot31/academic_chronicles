@@ -1,4 +1,4 @@
-# academic_chronicles
+# Academic Chronicles
 This repo contains the work I did during my Dual Enrollment CS course with Pellissippi State Community College and Undergraduate CS courses at UTK thus far. A description of my work is as follows:
 
 **UTK/COSC_202 : Data Structures and Algorithms I**
