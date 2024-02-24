@@ -1,4 +1,3 @@
-CS302 -- Lab Assignment 1
 
 # CS302 -- Lab Assignment 1 (80 pts: Spring 2024)
 
